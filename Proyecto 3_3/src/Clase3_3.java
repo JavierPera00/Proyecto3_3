@@ -6,7 +6,7 @@ public class Clase3_3 {
 
 		
 		
-	System.out.println("Canel En Rama");
+	System.out.println("Canela En Rama");
 		
 	}
 
