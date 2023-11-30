@@ -6,7 +6,7 @@ public class Clase3_3 {
 
 		
 		
-	System.out.println("Práctica 3_3 Javier Pera Vidal");
+	System.out.println("Canel En Rama");
 		
 	}
 
